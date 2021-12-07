@@ -10,7 +10,9 @@ The 4 end points are:
 
 ## Available Scripts
 
-<kbd> ##To run the application on docker: </kbd>
+<kbd> 
+  ## To run the application on docker: 
+</kbd>
 
 ## docker build -t <image_name> .
 
@@ -37,7 +39,9 @@ To the run the docker image in order to run the application and server
 To the run the docker image in order to run the application and server for linux users
 
 
-  <kbd> ##To run the application locally: </kbd>
+  <kbd> 
+  ## To run the application locally: 
+</kbd>
 
 ## `npm install`
 
