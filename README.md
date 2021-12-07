@@ -52,3 +52,4 @@ Install all the packages and dependency required to run the application on your 
 Runs the app on port 8080.\
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
+### The repository also contains a power point presentation for this assignment (Assignment_5_PPT.pptx)
