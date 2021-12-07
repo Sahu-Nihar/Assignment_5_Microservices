@@ -14,27 +14,27 @@ The 4 end points are:
   <h2> To run the application on docker: </h2>
 </kbd>
 
-## docker build -t <image_name> .
+## `docker build -t <image_name> .`
 
 To build the docker image intially run the above command inside the project directory in your terminal
 
-## sudo docker build -t <image_name> .
+## `sudo docker build -t <image_name> .`
 
 To build the docker image for linux users
 
-## docker image
+## `docker image`
 
 To view all the existing docker image
 
-## sudo docker image
+## `sudo docker image`
 
 To view existing docker image for linux users
 
-## docker run -it -p 8080:8080 <image_name>
+## `docker run -it -p 8080:8080 <image_name>`
 
 To the run the docker image in order to run the application and server
 
-## sudo docker run -it -p 8080:8080 <image_name>
+## `sudo docker run -it -p 8080:8080 <image_name>`
 
 To the run the docker image in order to run the application and server for linux users
 
