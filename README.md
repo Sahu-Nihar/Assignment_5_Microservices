@@ -10,7 +10,7 @@ The 4 end points are:
 
 ## Available Scripts
 
-To run the application on docker:
+<kbd> To run the application on docker: </kbd>
 
 ## docker build -t <image_name> .
 
@@ -38,11 +38,11 @@ To the run the docker image in order to run the application and server for linux
 
 
 
-To run the application locally:
+  <kbd> To run the application locally: </kbd>
 
 ## `npm install`
 
-Install all the packages and dependency required to run the react app on your local machine.
+Install all the packages and dependency required to run the application on your local machine.
 
 ### `npm run dev`
 
