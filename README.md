@@ -3,10 +3,10 @@
 This is a microservice application implemented using node.js. It is a customer and order details application which has 4 API endpoints. 
 
 The 4 end points are:
-1. /customers => shows list of all customers details.
-2. /customers/<customer_id> => shows details of that particular customer.
-3. /customers/<customer_id>/orders => shows list of orders of that selected customer.
-4. /customers/<customer_id>/orders/<order_id> => shows order details of the selected order of the selected customer.
+1. /api/v1/customers => shows list of all customers details.
+2. /api/v1/customers/<customer_id> => shows details of that particular customer.
+3. /api/v1/customers/<customer_id>/orders => shows list of orders of that selected customer.
+4. /api/v1/customers/<customer_id>/orders/<order_id> => shows order details of the selected order of the selected customer.
 
 ## Available Scripts
 
