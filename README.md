@@ -11,7 +11,7 @@ The 4 end points are:
 ## Available Scripts
 
 <kbd> 
-  To run the application on docker: 
+  <h2> To run the application on docker: </h2>
 </kbd>
 
 ## docker build -t <image_name> .
